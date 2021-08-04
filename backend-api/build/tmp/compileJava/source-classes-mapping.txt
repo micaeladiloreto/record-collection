@@ -1,0 +1,20 @@
+org/wcci/apimastery/Repos/AlbumRepository.java
+ org.wcci.apimastery.Repos.AlbumRepository
+org/wcci/apimastery/WebConfig.java
+ org.wcci.apimastery.WebConfig
+org/wcci/apimastery/ApiMasteryApplication.java
+ org.wcci.apimastery.ApiMasteryApplication
+org/wcci/apimastery/Repos/SongRepository.java
+ org.wcci.apimastery.Repos.SongRepository
+org/wcci/apimastery/Storage/AlbumStorage.java
+ org.wcci.apimastery.Storage.AlbumStorage
+org/wcci/apimastery/Populator.java
+ org.wcci.apimastery.Populator
+org/wcci/apimastery/Storage/SongStorage.java
+ org.wcci.apimastery.Storage.SongStorage
+org/wcci/apimastery/pojos/Song.java
+ org.wcci.apimastery.pojos.Song
+org/wcci/apimastery/Controllers/AlbumController.java
+ org.wcci.apimastery.Controllers.AlbumController
+org/wcci/apimastery/pojos/Album.java
+ org.wcci.apimastery.pojos.Album
